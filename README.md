@@ -18,7 +18,7 @@ Para ejecutar este proyecto localmente en tu máquina, sigue estos pasos:
 1. Clonar el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/amigo-secreto.git
+    git clone https://github.com/tu-usuario/amigoSecreto.git
     ```
 
 2. Abrir el proyecto en tu navegador:
